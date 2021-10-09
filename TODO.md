@@ -1,5 +1,5 @@
 # LibertyOS
 
 ### rawpnt
-	- [ ] Add tests
-	- [ ] Write documentation
+- [ ] Add tests
+- [ ] Write documentation
