@@ -8,6 +8,7 @@
 	- [ ] ctpalias
 	- [ ] goodnight
 	- [ ] hex2bytearray
+	- [ ] mutate
 	- [ ] noblkarray
 	- [ ] panicdump
 	- [ ] rawpnt
@@ -18,6 +19,7 @@
 	- [ ] goodnight
 	- [ ] hex2bytearray
 	- [ ] noblkarray
+	- [ ] mutate
 	- [ ] panicdump
 	- [ ] rawpnt
 	- [ ] volmem
@@ -52,6 +54,11 @@
 - [ ] Write a README file
 
 ### hex2bytearray
+- [ ] Add tests
+- [ ] Write documentation
+- [ ] Write a README file
+
+### mutate
 - [ ] Add tests
 - [ ] Write documentation
 - [ ] Write a README file
